@@ -1,0 +1,15 @@
+﻿Build started 9/29/2015 10:54:01 PM.
+     1>Project "C:\Users\Robby\Desktop\DS_GWC\official\2ndAssignment\Real\a2\a2\a2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Log.cpp
+         Log.cpp
+     1>c:\users\robby\desktop\ds_gwc\official\2ndassignment\real\a2\a2\log.h(33): error C3646: 'constructor' : unknown override specifier
+                 c:\users\robby\desktop\ds_gwc\official\2ndassignment\real\a2\a2\log.h(19) : see reference to class template instantiation 'Log<Object>::Node' being compiled
+                 c:\users\robby\desktop\ds_gwc\official\2ndassignment\real\a2\a2\log.h(551) : see reference to class template instantiation 'Log<Object>' being compiled
+     1>c:\users\robby\desktop\ds_gwc\official\2ndassignment\real\a2\a2\log.h(33): error C2061: syntax error : identifier 'C'
+     1>c:\users\robby\desktop\ds_gwc\official\2ndassignment\real\a2\a2\log.h(33): error C2091: function returns function
+     1>Done Building Project "C:\Users\Robby\Desktop\DS_GWC\official\2ndAssignment\Real\a2\a2\a2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.80
